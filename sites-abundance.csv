@@ -1,0 +1,105 @@
+date,site,site_num,month,year,lunar,area,abund
+13.10.2000,Koqu davala,2,October,2000,Full Moon,Outer reef,24
+27.10.2000,Koqu davala,2,October,2000,New moon,Outer reef,8
+14.11.2000,Koqu davala,2,November,2000,Full Moon,Outer reef,11
+28.11.2000,Koqu davala,2,November,2000,New moon,Outer reef,28
+15.12.2000,Koqu davala,2,December,2000,Full Moon,Outer reef,14
+29.12.2000,Koqu davala,2,December,2000,New moon,Outer reef,7
+11.1.2001,Koqu davala,2,January,2001,Full Moon,Outer reef,5
+26.1.2001,Koqu davala,2,January,2001,New moon,Outer reef,38
+9.2.2001,Koqu davala,2,Febuary,2001,Full Moon,Outer reef,10
+24.2.2001,Koqu davala,2,Febuary,2001,New moon,Outer reef,13
+9.3.2001,Koqu davala,2,March,2001,Full Moon,Outer reef,10
+28.3.2001,Koqu davala,2,March,2001,New moon,Outer reef,7
+9.4.2001,Koqu davala,2,April,2001,Full Moon,Outer reef,7
+26.4.2001,Koqu davala,2,April,2001,New moon,Outer reef,5
+11.5.2001,Koqu davala,2,May,2001,Full Moon,Outer reef,5
+23.5.2001,Koqu davala,2,May,2001,New moon,Outer reef,1
+8.6.2001,Koqu davala,2,June,2001,Full Moon,Outer reef,2
+25.6.2001,Koqu davala,2,June,2001,New moon,Outer reef,4
+14.10.2000,Sulu Para,1,October,2000,Full Moon,Outer reef,18
+27.10.2000,Sulu Para,1,October,2000,New moon,Outer reef,15
+15.11.2000,Sulu Para,1,November,2000,Full Moon,Outer reef,32
+28.11.2000,Sulu Para,1,November,2000,New moon,Outer reef,20
+15.12.2000,Sulu Para,1,December,2000,Full Moon,Outer reef,15
+30.12.2000,Sulu Para,1,December,2000,New moon,Outer reef,35
+11.1.2001,Sulu Para,1,January,2001,Full Moon,Outer reef,11
+25.1.2001,Sulu Para,1,January,2001,New moon,Outer reef,11
+9.2.2001,Sulu Para,1,Febuary,2001,Full Moon,Outer reef,2
+24.2.2001,Sulu Para,1,Febuary,2001,New moon,Outer reef,26
+9.3.2001,Sulu Para,1,March,2001,Full Moon,Outer reef,13
+28.3.2001,Sulu Para,1,March,2001,New moon,Outer reef,6
+10.4.2001,Sulu Para,1,April,2001,Full Moon,Outer reef,36
+26.4.2001,Sulu Para,1,April,2001,New moon,Outer reef,17
+11.5.2001,Sulu Para,1,May,2001,Full Moon,Outer reef,18
+28.5.2001,Sulu Para,1,May,2001,New moon,Outer reef,2
+9.6.2001,Sulu Para,1,June,2001,Full Moon,Outer reef,13
+28.6.2001,Sulu Para,1,June,2001,New moon,Outer reef,18
+13.10.2000,Kuliziri,3,October,2000,Full Moon,Passage,6
+28.10.2000,Kuliziri,3,October,2000,New moon,Passage,18
+15.11.2000,Kuliziri,3,November,2000,Full Moon,Passage,5
+27.11.2000,Kuliziri,3,November,2000,New moon,Passage,1
+15.12.2000,Kuliziri,3,December,2000,Full Moon,Passage,2
+29.12.2000,Kuliziri,3,December,2000,New moon,Passage,10
+11.1.2001,Kuliziri,3,January,2001,Full Moon,Passage,5
+26.1.2001,Kuliziri,3,January,2001,New moon,Passage,2
+8.2.2001,Kuliziri,3,Febuary,2001,Full Moon,Passage,7
+27.2.2001,Kuliziri,3,Febuary,2001,New moon,Passage,8
+9.3.2001,Kuliziri,3,March,2001,Full Moon,Passage,3
+28.3.2001,Kuliziri,3,March,2001,New moon,Passage,0
+9.4.2001,Kuliziri,3,April,2001,Full Moon,Passage,2
+26.4.2001,Kuliziri,3,April,2001,New moon,Passage,7
+11.5.2001,Kuliziri,3,May,2001,Full Moon,Passage,8
+28.5.2001,Kuliziri,3,May,2001,New moon,Passage,2
+6.6.2001,Kuliziri,3,June,2001,Full Moon,Passage,0
+28.6.2001,Kuliziri,3,June,2001,New moon,Passage,0
+14.10.2000,Honiavasa,4,October,2000,Full Moon,Passage,7
+28.10.2000,Honiavasa,4,October,2000,New moon,Passage,5
+14.11.2000,Honiavasa,4,November,2000,Full Moon,Passage,3
+27.11.2000,Honiavasa,4,November,2000,New moon,Passage,2
+15.12.2000,Honiavasa,4,December,2000,Full Moon,Passage,13
+30.12.2000,Honiavasa,4,December,2000,New moon,Passage,6
+10.1.2001,Honiavasa,4,January,2001,Full Moon,Passage,1
+24.1.2001,Honiavasa,4,January,2001,New moon,Passage,1
+8.2.2001,Honiavasa,4,Febuary,2001,Full Moon,Passage,2
+27.2.2001,Honiavasa,4,Febuary,2001,New moon,Passage,8
+13.3.2001,Honiavasa,4,March,2001,Full Moon,Passage,10
+27.3.2001,Honiavasa,4,March,2001,New moon,Passage,12
+9.4.2001,Honiavasa,4,April,2001,Full Moon,Passage,12
+25.4.2001,Honiavasa,4,April,2001,New moon,Passage,3
+11.5.2001,Honiavasa,4,May,2001,Full Moon,Passage,16
+28.5.2001,Honiavasa,4,May,2001,New moon,Passage,3
+8.6.2001,Honiavasa,4,June,2001,Full Moon,Passage,5
+25.6.2001,Honiavasa,4,June,2001,New moon,Passage,2
+7.5.2001,7,7,May,2001,Full Moon,Outer reef,12
+7.5.2001,9,9,May,2001,Full Moon,Passage,5
+7.5.2001,10,10,May,2001,Full Moon,Passage,7
+8.5.2001,8,8,May,2001,Full Moon,Outer reef,5
+5.3.2018,Koqu davala,2,March,2018,Full Moon,Outer reef,2
+5.3.2018,Sulu Para,1,March,2018,Full Moon,Outer reef,7
+5.3.2018,Honiavasa,4,March,2018,Full Moon,Passage,3
+5.3.2018,Kuliziri,3,March,2018,Full Moon,Passage,0
+1.5.2018,Koqu davala,2,May,2018,Full Moon,Outer reef,1
+1.5.2018,Sulu Para,1,May,2018,Full Moon,Outer reef,8
+1.5.2018,Kuliziri,3,May,2018,Full Moon,Passage,0
+5.7.2018,9,9,July,2018,Full Moon,Passage,1
+5.7.2018,10,10,July,2018,Full Moon,Passage,0
+5.7.2018,7,7,July,2018,Full Moon,Outer reef,4
+6.7.2018,7,7,July,2018,Last Quarter,Outer reef,1
+6.7.2018,8,8,July,2018,Last Quarter,Outer reef,2
+6.7.2018,Koqu davala,2,July,2018,Last Quarter,Outer reef,3
+7.7.2018,Sulu Para,1,July,2018,Last Quarter,Outer reef,4
+7.7.2018,Honiavasa,4,July,2018,Last Quarter,Passage,2
+7.7.2018,Kuliziri,3,July,2018,Last Quarter,Passage,0
+9.7.2018,Koqu davala,2,July,2018,Last Quarter,Outer reef,2
+9.7.2018,Sulu Para,1,July,2018,Last Quarter,Outer reef,10
+9.7.2018,Kuliziri,3,July,2018,Last Quarter,Passage,0
+9.7.2018,Honiavasa,4,July,2018,Last Quarter,Passage,2
+10.7.2018,Koqu davala,2,July,2018,Last Quarter,Outer reef,3
+10.7.2018,Sulu Para,1,July,2018,Last Quarter,Outer reef,4
+10.7.2018,Kuliziri,3,July,2018,Last Quarter,Passage,0
+10.7.2018,Honiavasa,4,July,2018,Last Quarter,Passage,6
+30.7.2018,Koqu davala,2,July,2018,Full Moon,Outer reef,4
+30.7.2018,Sulu Para,1,July,2018,Full Moon,Outer reef,7
+30.7.2018,Kuliziri,3,July,2018,Full Moon,Passage,2
+30.7.2018,Honiavasa,4,July,2018,Full Moon,Passage,0
